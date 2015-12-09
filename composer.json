@@ -1,12 +1,12 @@
 {
-    "name": "vindi/vindi-php",
+    "name": "talesgalvao/vindi-php",
     "description": "SDK Vindi para PHP.",
     "keywords": [
         "vindi",
         "vindi-php",
         "vindi-php-sdk"
     ],
-    "homepage": "https://github.com/vindi/vindi-php",
+    "homepage": "https://github.com/talesgalvao/vindi-php",
     "license": "GPL-3.0",
     "authors": [
         {
@@ -16,8 +16,8 @@
         }
     ],
     "require": {
-        "php": ">=5.5.0",
-        "guzzlehttp/guzzle": "^6.0"
+        "php": ">=5.4.*",
+        "guzzlehttp/guzzle": "^5.d"
     },
     "require-dev": {
         "phpunit/phpunit" : "4.*",
